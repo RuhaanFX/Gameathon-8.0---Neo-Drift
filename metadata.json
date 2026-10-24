@@ -1,0 +1,8 @@
+{
+  "name": "Final Neo Drift - Gameathin 8.0",
+  "description": "Chill, atmospheric sci-fi 4x4 road trip through ruined neon wastelands, scavenging, upgrading in megacities, and uncovering forgotten stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
